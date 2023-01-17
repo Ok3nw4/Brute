@@ -1,7 +1,10 @@
 
-#### CARA INSTALL SCRIPT:
- download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_117.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
- ```
+#### HOW TO INSTALL SCRIPT:
+ download the termux android application at [here!](https://f-droid.org/repo/com.termux_117.apk), then open the application, type the command below.
+ ```okay now the script is installed
+#### HOW TO RUN THE SCRIPT:
+ now that the script has been installed, all we have to do is run it, type the command below:
+ ```EARLY VIEW:
  $ pkg update && pkg upgrade
  $ pkg install python git
  $ pip install requests bs4 futures
@@ -9,17 +12,14 @@
  $ rm -rf Brute
  $ git clone https://github.com/OK3NW4/Brute
  ```
- oke sekarang script sudah terinstall
-#### CARA MENJALANKAN SCRIPT:
- sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
- ```
+ 
   $ cd Brute
   $ git pull
   $ python run.py
  ```
-### TAMPILAN AWAL:
+### type *trial* if you want to get a 1 day trial key, or you can also type *admin* to get further information
 ![template_s](https://github.com/OK3NW4/Brute/blob/master/__pycache__/IMG_20210703_070319.jpg)
- ketik *trial* jika anda ingin mendapatkan key trial 1 hari., atau bisa juga ketik *admin* untuk mendapatkan informasi selanjutnya.
+ 
 
 ### LOGIN COOKIE:
 
