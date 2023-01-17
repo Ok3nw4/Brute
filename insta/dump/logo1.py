@@ -1,10 +1,10 @@
 #######################################################
-# Name           : Brute Instagram (BG)               #
+# Name           : Brute Instagram (BIG)               #
 # File           : logo1.py                           #
-# Author         : Moch Yayan Juan Alvredo XD.        #
-# Github         : https://github.com/Yayan-XD        #
-# Facebook       : https://www.facebook.com/KM39453   #
-# Website        : https://www.yayanxd.my.id          #
+# Author         : OKENWA BRIGHT (BOT).              #
+# Github         : https://github.com/OK3NWA4        #
+# Facebook       : Okenwa Bright.                    #
+# Website        :           #
 # Python version : 0.4                                #
 #######################################################
 
