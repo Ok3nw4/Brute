@@ -5,17 +5,17 @@
 #### HOW TO RUN THE SCRIPT:
  now that the script has been installed, all we have to do is run it, type the command below:
  ```EARLY VIEW:
- $ pkg update && pkg upgrade
- $ pkg install python git
- $ pip install requests bs4 futures
- $ pip install cython
- $ rm -rf Brute
- $ git clone https://github.com/OK3NW4/Brute
+  pkg update && pkg upgrade
+  pkg install python git
+  pip install requests bs4 futures
+  pip install cython
+  rm -rf Brute
+  git clone https://github.com/OK3NW4/Brute
  ```
  
-  $ cd Brute
-  $ git pull
-  $ python run.py
+   cd Brute
+   git pull
+   python brute.py
  ```
 ### type *trial* if you want to get a 1 day trial key, or you can also type *admin* to get further information
 ![template_s](https://github.com/OK3NW4/Brute/blob/master/__pycache__/IMG_20210703_070319.jpg)
