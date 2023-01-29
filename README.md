@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://fb.com/okenwa.brigh24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="okenwa.bright24" height="30" width="40" /></a>
-<a href="https://instagram.com/savage_fundz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/savage_fundz01/" height="30" width="40" /></a> [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2349150557103?text=Hello+Celebrity+Melanin)
+<a href="https://instagram.com/savage_fundz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/savage_fundz01/" height="30" width="40" /></a> [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2347061758885?text=Hello+OKENWA+I+WANT+TO+PAY+FOR+APPROVAL)
 
 
 
