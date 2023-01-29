@@ -93,6 +93,28 @@ Here are some ideas to get you started:
 
  python brute.py
 ```
+# APPROVAL INFORMATION
+<table border="1">
+<tr>
+<th>PRICE</th>
+<th>DURATION</th>
+</tr>
+<tr>
+<td>5k</td>
+<td>2 WEEKS</td>
+</tr>
+<tr>
+<td>10K</td>
+<td>PREMIUM</td>
+</tr>
+</table>
+
+##### Note:
+This a paid tool only you only get approved when you pay
+https://chat.whatsapp.com/J9yuomFu406ExZH6ZnbEni.
+
+
+##### Don't forget to follow my GITHUB profile
 
  ❤️ Thanks For Using My Tools ❤️
 
